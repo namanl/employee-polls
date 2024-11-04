@@ -1,0 +1,128 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Leaderborad matches the snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div>
+        <table
+          class="table-auto w-full text-sm mt-6 "
+        >
+          <thead
+            class="table-header-group bg-white"
+          >
+            <tr
+              class="table-row"
+            >
+              <th
+                class="border border-slate-100 dark:border-slate-600 font-medium p-4 pl-8 text-left"
+              >
+                User
+              </th>
+              <th
+                class="border border-slate-100 dark:border-slate-600 font-medium p-4 pl-8 text-left"
+              >
+                Answered
+              </th>
+              <th
+                class="border border-slate-100 dark:border-slate-600 font-medium p-4 pl-8 text-left"
+              >
+                Created
+              </th>
+            </tr>
+          </thead>
+          <tbody
+            class="bg-white"
+          />
+        </table>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div>
+      <table
+        class="table-auto w-full text-sm mt-6 "
+      >
+        <thead
+          class="table-header-group bg-white"
+        >
+          <tr
+            class="table-row"
+          >
+            <th
+              class="border border-slate-100 dark:border-slate-600 font-medium p-4 pl-8 text-left"
+            >
+              User
+            </th>
+            <th
+              class="border border-slate-100 dark:border-slate-600 font-medium p-4 pl-8 text-left"
+            >
+              Answered
+            </th>
+            <th
+              class="border border-slate-100 dark:border-slate-600 font-medium p-4 pl-8 text-left"
+            >
+              Created
+            </th>
+          </tr>
+        </thead>
+        <tbody
+          class="bg-white"
+        />
+      </table>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
